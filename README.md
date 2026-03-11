@@ -15,15 +15,15 @@
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="50" height="50"/>
 
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50" height="50"/>
 
 </p>
 
@@ -31,5 +31,5 @@
 
 ### Connect with me:
 <a href="linkedin.com/in/bogdan-gavris">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
 </a>
