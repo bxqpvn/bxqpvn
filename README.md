@@ -2,7 +2,7 @@
 
 ### 🔎 Seeking opportunities as a **Junior Data Analyst**
 
-<img align="right" src="https://media.licdn.com/dms/image/v2/D4E22AQFNOM0fqsaJzw/feedshare-shrink_2048_1536/B4EZQsV.RBG4Ao-/0/1735910747062?e=2147483647&v=beta&t=06kUGn7g14sJ-UyD9FQ0XHeJSLUr_I2aNGdgWAPR124" width="300"/>
+<img align="right" src="https://media.licdn.com/dms/image/v2/D4E22AQFNOM0fqsaJzw/feedshare-shrink_2048_1536/B4EZQsV.RBG4Ao-/0/1735910747062?e=2147483647&v=beta&t=06kUGn7g14sJ-UyD9FQ0XHeJSLUr_I2aNGdgWAPR124" width="150"/>
 
 ### More About Me:
 
